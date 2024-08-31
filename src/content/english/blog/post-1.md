@@ -19,6 +19,9 @@ Whether you're a cybersecurity professional or just someone interested in the la
 
 #### Kaspersky Cyberthreats Map
 
+![image](/images/star.png)![image](/images/star.png)![image](/images/star.png)![image](/images/star.png)
+
+
 #### Summary: 
 This interactive map visualizes global cybersecurity threats in real-time. It pulls data from the Kaspersky Security Network, showcasing the latest detected threats such as malware infections, spam, and web attacks across the world.
 
