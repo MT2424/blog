@@ -25,7 +25,7 @@ This interactive map visualizes global cybersecurity threats in real-time. It pu
 #### Review: 
 Kaspersky's map is visually appealing and easy to use, with smooth zoom and rotate features. It offers a great snapshot of global threats and allows users to filter and focus on specific threat types. However, it is more of a high-level visualization and lacks detailed insights on individual incidents.
 
-#### Link: https://cybermap.kaspersky.com/
+##### Link: https://cybermap.kaspersky.com/
 
 #### FortiGuard Threat Map
 
