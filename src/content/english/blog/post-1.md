@@ -9,7 +9,7 @@ author: "Site admin"
 tags: ["threatmap", "map", "threat", "talos", "cisco", "kaspersky", "bitdefender", "malware", "spam", "virus", "DDOS", "attack", "vector"]
 draft: false
 ---
-<Accordion title="Theart Map Providers">
+<Accordion title="Top Threat Map Providers">
 
 -[Kaspersky](https://cybermap.kaspersky.com/)
 
