@@ -82,6 +82,7 @@ The Cyber Threat Horizon is highly detailed and customizable, making it a powerf
 #### Summary: 
 Powered by Cisco’s Talos Intelligence, this map highlights real-time global cyberattacks, focusing on spam, malware, and botnet activities. It allows users to see the top attackers and victims by country.
 
-#### Review: The Talos map is visually engaging and provides a quick look at ongoing threats, making it a useful tool for real-time monitoring. However, it’s more of a showcase tool than an in-depth analysis platform, so its utility might be limited for detailed threat intelligence purposes.
+#### Review: 
+The Talos map is visually engaging and provides a quick look at ongoing threats, making it a useful tool for real-time monitoring. However, it’s more of a showcase tool than an in-depth analysis platform, so its utility might be limited for detailed threat intelligence purposes.
 
 #### Link: https://talosintelligence.com/ebc_malware/
