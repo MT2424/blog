@@ -19,7 +19,7 @@ Whether you're a cybersecurity professional or just someone interested in the la
 
 #### Kaspersky Cyberthreats Map
 
-![image](/images/star.png)![image](/images/star.png)![image](/images/star.png)![image](/images/star.png)
+![image](/images/star.png)
 
 
 #### Summary: 
