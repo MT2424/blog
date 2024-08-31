@@ -6,7 +6,7 @@ date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Application", "Data"]
 author: "Site admin"
-tags: ["nextjs", "tailwind"]
+tags: ["threatmap", "map", "threat", "talos", "cisco", "kaspersky", "bitdefender", "malware", "spam", "virus", "DDOS", "attack", "vector"]
 draft: false
 ---
 
