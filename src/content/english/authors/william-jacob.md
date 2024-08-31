@@ -1,6 +1,6 @@
----
-title: William Jacob
-email: williamjacob@email.com
+,,---
+title: Breech McAfee
+email: bmcafee@protonmail.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
