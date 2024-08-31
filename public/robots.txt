@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://example.com
+Host: https://smart-sec.netlify.app
 
 # Sitemaps
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://smart-sec.netlify.app/sitemap.xml
