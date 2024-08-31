@@ -1,5 +1,5 @@
 ---
-title: "Penelope "Penny" Tester"
+title: "Penelope 'Penny' Tester"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
