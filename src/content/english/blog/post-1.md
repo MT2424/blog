@@ -42,7 +42,8 @@ FortiGuard’s map is a solid tool for getting a quick overview of global threat
 #### Summary: 
 This map by Check Point visualizes real-time global cyberattacks, focusing on malware, phishing, and DDoS attacks. It also includes statistics on the top attack origins and targeted industries.
 
-#### Review: Check Point’s threat map is user-friendly and informative, making it easy to see which regions are under threat. The color-coded threat types and the ability to view attack trends over 30 days are useful features. Yet, like many other threat maps, it might feel a bit too simplistic for users needing in-depth analysis.
+#### Review: 
+Check Point’s threat map is user-friendly and informative, making it easy to see which regions are under threat. The color-coded threat types and the ability to view attack trends over 30 days are useful features. Yet, like many other threat maps, it might feel a bit too simplistic for users needing in-depth analysis.
 
 #### Link: https://threatmap.checkpoint.com/
 
