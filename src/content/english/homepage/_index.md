@@ -26,13 +26,21 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Next"
+  - title: "Top 10 Ways to Improve Your Security (**FREE**)"
     image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "By following these steps, you can significantly improve your security, both on the internet and on your own devices. Remember, cybersecurity is an ongoing process that requires awareness and vigilance. Some of the key features are:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Use Strong and Unique Passwords"
+      - "Enable Two-Factor Authentication (2FA)"
+      - "Regularly Update Software and Operating Systems"
+      - "Be Cautious with Phishing Scams"
+      - "Use a Reliable Antivirus and Anti-Malware Tool"
+      - "Encrypt Sensitive Data"
+      - "Regularly Back Up Your Data"
+      - "Use a Secure Browser and Clear Cookies Regularly"
+      - "Disable Unnecessary Services and Features"
+      - "Be Mindful of Public Wi-Fi"
+
     button:
       enable: true
       label: "Get Started Now"
