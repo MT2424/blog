@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Protect What Matters: Free Resources to Enhance Your Online Security"
+  content: "In today's digital age, where every click, download, and online interaction could potentially expose you to cyber threats, staying informed about cybersecurity is more critical than ever. Our mission is simple: to empower individuals and organizations with the knowledge and tools they need to protect themselves online. We believe that everyone deserves access to reliable, up-to-date information on cybersecurity—without the price tag."
   image: "/images/kuva_kortti.png"
   button:
     enable: true
