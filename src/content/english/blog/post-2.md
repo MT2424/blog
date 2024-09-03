@@ -1,12 +1,12 @@
 ---
 title: "Good and Safe Password Managers"
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+meta_title: "recommended password managers"
+description: "Managing passwords securely is crucial for online safety"
+date: 2024-09-03T14:55:00Z
 image: "/images/image-placeholder.png"
 categories: ["Technology", "Data"]
 author: "Sam Wilson"
-tags: ["technology", "tailwind"]
+tags: ["Secure", "password", "manager", "safe"]
 draft: false
 ---
 
