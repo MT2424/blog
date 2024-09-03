@@ -3,7 +3,7 @@ title: "Dont use Password Managers that are built into Browsers"
 meta_title: ""
 description: "How Criminals Steal Passwords from Browsers"
 date: 2024-03-09T14:45:00Z
-image: "/images/image-placeholder.png"
+image: "/images/Shield-modified.png"
 categories: ["Software"]
 author: "John Doe"
 tags: ["password", "manager", "browser", "security"]
